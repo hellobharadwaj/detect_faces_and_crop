@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+output_faces/
+output_profiles/
+team_photos/
